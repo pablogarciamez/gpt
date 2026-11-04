@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Datos y modelos (no se versionan)
+data/
+*.pt
+*.pth
+*.bin
+checkpoints/
+runs/
+wandb/
+
+# Sistema
+.DS_Store
